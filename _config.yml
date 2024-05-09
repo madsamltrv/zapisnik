@@ -1,2 +1,5 @@
-theme: slate
+theme: minima
 author: Madina Samyltyrova
+header_pages:
+  - about.md
+  - portfolio.md
